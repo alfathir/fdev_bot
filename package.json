@@ -1,0 +1,20 @@
+{
+  "name": "fdev_bot",
+  "version": "0.1.0",
+  "description": "Gaming bot created by AlFathir and developed at Discord by AlFathir to manage a Game server on Discord.",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.3.1",
+    "ping.js": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "AlFathir",
+  "license": "ISC"
+}
