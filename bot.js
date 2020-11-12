@@ -8,7 +8,7 @@ const p = new Ping();
 
 
 // token
-const token = 'NzU4NjAxMjY1Mzc4NDkyNDM2.X2xUew.x1clD1FZwJFVMvgY6HH9kvtgdoc';
+const token = 'token here'; //your discord bot token
 
 
 // test online
